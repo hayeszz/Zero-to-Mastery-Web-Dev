@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20vh;
+    background: linear-gradient(to right, #46f1ff, #c936a0);
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 3rem;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h4{
+    text-transform: lowercase;
+    line-height: 0.5rem;
+}
