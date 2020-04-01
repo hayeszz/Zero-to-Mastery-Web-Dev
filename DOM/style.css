@@ -1,0 +1,15 @@
+.coolTitle{
+    color: blueviolet ;
+    font-style: italic;
+}
+.bold{
+    font-weight: bolder;
+}
+
+.red{
+    color: red;
+}
+
+.opac{
+    opacity: 0;
+}
